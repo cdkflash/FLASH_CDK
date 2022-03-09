@@ -5,20 +5,20 @@
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
+<a href="https://github.com/cdkflash/FLASH_CDK.git"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
+<a href="https://github.com/cdkflash/FLASH_CDK.git"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
 <h1> 🔎 What is FLASH_CDK 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL- FLAS_CDK](https://github.com/cdkflash/FLASH_CDK.git). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
 <h1> <💎> FLASH_CDK <💎> </h1>
 
 ```
-Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
+FLASH Bot - FLASH Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -37,22 +37,18 @@ the user is responsible.
 
 <h2> 📢 Guide 📢 </h2>
 
-> [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
+> [Join For Suppor
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
-
-<a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
+<a href="https://Wa.me/94714538340">ꜱʟ-FLASH</a> |
 
 <p align="center"> 
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
+  <a href="https://github.com/cdkflash/FLASH_CDK.git/FLASH_CDK/fork">
+    <img src="https://img.shields.io/github/forks/FLASH_CDK/FLASH_CDK?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
+  <a href="https://github.com/cdkflash/FLASH_CDK.git/FLASH_CD/stargazers">
     <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
   </a>
 </p>
@@ -87,7 +83,7 @@ the user is responsible.
 ### `• Get QR Code Using Repl.it ♻️`
 > Need a **PC** for get qr and need a **PHONE** to scan the qr.
 
-[![Run on Repl.it](https://repl.it/badge/github/SL-Alpha-X-Team/Alpha-X-WA-Bot)](https://replit.com/@AlphaXteam/Alpha-X-Bot-QR)
+[![Run on Repl.it](https://repl.it/badge/github/SL-Alpha-X-Team/Alpha-X-WA-Bot)](https://replit.com/@FLASHCDK/Alpha-X-Bot-QR)
 
 ### `• For Termux Users 📲 [ RUN THIS CODE ON TERMUX ] 👇`
 > Need **2 PHONES** , 1 for get qr & other one for scan the qr.
